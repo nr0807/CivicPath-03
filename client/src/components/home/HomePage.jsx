@@ -255,7 +255,7 @@ export default function HomePage({
                   <div className="flex-1 space-y-1">
                     <div className="font-bold text-[12px]">
                       {scopeFeedback.status === 'OUT_OF_SCOPE'
-                        ? 'Requirement Outside Vertexa Scope'
+                        ? 'Requirement Outside CivicPath Scope'
                         : 'Clarification Needed'}
                     </div>
                     <p className="leading-relaxed text-[11px] opacity-90">
